@@ -1,6 +1,6 @@
 # Starter Web Repo
 AND NEW STUFF HERE
-
+AND THIS IS NEW STUFF. WOW!
 This repository is for showing how Git and GitHub work
 
 ## Purpose
