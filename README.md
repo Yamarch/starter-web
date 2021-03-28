@@ -17,4 +17,4 @@ TESTING
 
 ## Copyright
 
-This is a copyright 2021
+This is a copyright 2021. All rights reserved.
